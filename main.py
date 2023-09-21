@@ -12,7 +12,7 @@ def borne():
     x1 = e(z, y)
     return x1
 x = borne()
-print(x)
+
 
 loop = 0
 NbrEssais = 1
